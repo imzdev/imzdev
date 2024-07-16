@@ -1,24 +1,24 @@
-<h1 align="left">Hi👋 I'm imzdev</h1>
+<h1 align="center">Hi👋 I'm imzdev</h1>
 
 ###
 
-<h5 align="left">Passionate frontend and backend developer in progress from Chile</h5>
+<h5 align="center">Passionate frontend and backend developer in progress from Chile</h5>
 
 ###
 
-<h4 align="left">About me</h4>
+<h4 align="center">About me</h4>
 
 ###
 
-<p align="left">🙂‍↕️Web and mobile development<br>📚Database design<br>✨Calisthenic</p>
+<p align="center">🙂‍↕️Web and mobile development<br>📚Database design<br>✨Calisthenic</p>
 
 ###
 
-<h3 align="left">Development environment and languages ​​in constant learning.</h3>
+<h3 align="center">Development environment and languages ​​in constant learning.</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -61,8 +61,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-
-
 
 
 
